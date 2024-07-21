@@ -1,6 +1,7 @@
-My Blog
-=======
-Hello World
-===========
+ScrollTalk
+==========
+
+Aftertext
+=========
 07/21/2024
-https://talk.scroll.pub/helloWorld.html
+https://talk.scroll.pub/aftertext.html

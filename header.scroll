@@ -1,5 +1,7 @@
 importOnly
 import settings.scroll
+groups All
+keyboardNav
 metaTags
 buildTxt
 buildHtml
