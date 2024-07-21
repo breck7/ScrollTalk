@@ -3,4 +3,4 @@ My Blog
 Hello World
 ===========
 07/21/2024
-/helloWorld.html
+https://talk.scroll.pub/helloWorld.html
