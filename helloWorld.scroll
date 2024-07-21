@@ -1,8 +1,0 @@
-groups All
-import header.scroll
-
-thinColumns
-This is my first blog post using Scroll.
-endColumns
-****
-import footer.scroll

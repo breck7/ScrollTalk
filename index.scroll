@@ -1,4 +1,12 @@
-title My Blog
-import header.scroll
+title ScrollTalk
+import settings.scroll
+metaTags
+buildTxt
+buildHtml
+gazetteCss
+pageHeader
+printTitle
+
 printSnippets All
-import footer.scroll
+
+pageFooter
