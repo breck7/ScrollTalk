@@ -1,12 +1,2 @@
-title ScrollTalk
-import settings.scroll
-metaTags
-buildTxt
+redirectTo https://hub.scroll.pub/scrolltalk
 buildHtml
-gazetteCss
-pageHeader
-printTitle
-
-printSnippets All
-
-pageFooter
